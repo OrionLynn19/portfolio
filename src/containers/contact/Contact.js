@@ -31,8 +31,8 @@ export default function Contact() {
         <div className="contact-image-div">
           <img
             alt="Saad Working"
-            src={require("../../assets/images/contactMail.png")}
-          ></img>
+            src={process.env.PUBLIC_URL + "/assets/images/contactMail.png"}
+          />
         </div>
       </div>
     </div>
