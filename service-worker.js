@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OrionLynn19/portfolio/precache-manifest.2cb20469cf2f3ebb2a5efa39c401a8a3.js"
+  "/OrionLynn19/portfolio/precache-manifest.6908af22075127d4ad4073f2f5844689.js"
 );
 
 self.addEventListener('message', (event) => {
