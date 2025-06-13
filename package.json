@@ -2,7 +2,7 @@
   "private": true,
   "name": "orion-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/OrionLynn19/portfolio.git",
+  "homepage": "https://github.com/OrionLynn19/portfolio/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
