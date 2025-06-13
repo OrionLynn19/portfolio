@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/OrionLynn19/portfolio/static/css/main.7fc96e04.chunk.css",
-    "main.js": "/OrionLynn19/portfolio/static/js/main.55b1e876.chunk.js",
-    "main.js.map": "/OrionLynn19/portfolio/static/js/main.55b1e876.chunk.js.map",
-    "runtime-main.js": "/OrionLynn19/portfolio/static/js/runtime-main.bc7e40d7.js",
-    "runtime-main.js.map": "/OrionLynn19/portfolio/static/js/runtime-main.bc7e40d7.js.map",
-    "static/js/2.e6a649f8.chunk.js": "/OrionLynn19/portfolio/static/js/2.e6a649f8.chunk.js",
-    "static/js/2.e6a649f8.chunk.js.map": "/OrionLynn19/portfolio/static/js/2.e6a649f8.chunk.js.map",
-    "index.html": "/OrionLynn19/portfolio/index.html",
-    "precache-manifest.6908af22075127d4ad4073f2f5844689.js": "/OrionLynn19/portfolio/precache-manifest.6908af22075127d4ad4073f2f5844689.js",
-    "service-worker.js": "/OrionLynn19/portfolio/service-worker.js",
-    "static/css/main.7fc96e04.chunk.css.map": "/OrionLynn19/portfolio/static/css/main.7fc96e04.chunk.css.map",
-    "static/media/index.css": "/OrionLynn19/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/all.css": "/OrionLynn19/portfolio/static/media/fa-solid-900.8e4a6dcc.eot"
+    "main.css": "./static/css/main.1776b1d9.chunk.css",
+    "main.js": "./static/js/main.7abf3c8d.chunk.js",
+    "main.js.map": "./static/js/main.7abf3c8d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.03a9dfd4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.03a9dfd4.js.map",
+    "static/js/2.8fd32086.chunk.js": "./static/js/2.8fd32086.chunk.js",
+    "static/js/2.8fd32086.chunk.js.map": "./static/js/2.8fd32086.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7d9490fe6c4acb6c373a6cbee073e344.js": "./precache-manifest.7d9490fe6c4acb6c373a6cbee073e344.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1776b1d9.chunk.css.map": "./static/css/main.1776b1d9.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc7e40d7.js",
-    "static/js/2.e6a649f8.chunk.js",
-    "static/css/main.7fc96e04.chunk.css",
-    "static/js/main.55b1e876.chunk.js"
+    "static/js/runtime-main.03a9dfd4.js",
+    "static/js/2.8fd32086.chunk.js",
+    "static/css/main.1776b1d9.chunk.css",
+    "static/js/main.7abf3c8d.chunk.js"
   ]
 }
